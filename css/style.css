@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+
+.container-fluid{
+    padding: 1px;
+    margin: 1px;
+    border: 1px cornsilk solid;
+    
+}
+    
+
+
+
+.card{
+    margin: auto;
+    margin-top: 15%;
+    padding-top: 0%;
+  
+  
+   
+   
+}
+.card-text{
+    background-color: rgb(220, 74, 58);
+    color: white;
+    border-radius: 4px;
+   font-size: large;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+
+.text-1{
+    padding-top: 5rem;
+    padding: 5rem;
+    padding-bottom: 0%;
+    margin: auto;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+
+
+   
+
+article{
+   box-sizing: border-box;
+   flex-basis: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+
+   
+
+.container-2{
+    padding-top: -5rem;
+    padding: auto;
+    margin: 2rem;
+}
+
+.mat-meny{
+    margin-top: -4%;
+}
